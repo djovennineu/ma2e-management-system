@@ -1735,7 +1735,7 @@ ESPACE MEMBRE</a>
     <div class="conteneur-devenir">
         <h2 class="titre-devenir">Prêt à rejoindre la famille MA2E ?</h2>
         <p class="texte-devenir">Rejoignez-nous dès aujourd'hui et bénéficiez de tous les avantages que nous offrons à nos membres. Ensemble, construisons un avenir financier solide.</p>
-        <a href="teste.php" class="btn-devenir">Devenir membre</a>
+        <a href="adhesion.php" class="btn-devenir">Devenir membre</a>
     </div>
 </section>
 
