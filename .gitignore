@@ -1,0 +1,28 @@
+# Dependencies
+/vendor/
+
+# Logs
+/logs/*
+/logs/**
+/cron/logs/
+
+# User uploads
+/uploads/*
+/uploads/**
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
+.phpunit.result.cache
